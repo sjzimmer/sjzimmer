@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjzimmer
-- 👀 I’m interested in travelling, tattoos and dogs
+- 👀 I’m interested in agile, coding, travelling, tattoos and dogs
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on making programs pretty and user friendly :)
 - 📫 How to reach me, look up @sa.zimmer on Instagram
